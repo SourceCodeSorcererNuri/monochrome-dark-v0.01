@@ -1,4 +1,4 @@
-# ❄️ Arktik Light Dotfiles v0.01
+# 🦇 Monochrome Dark Dotfiles v0.01
 
 **Author:** Abduraxmonov Nuriddin (**SourceCodeSorcerer**)
 
@@ -6,7 +6,7 @@
 
 ## 🇺🇸 English Version
 
-Welcome to the **Arktik Light Dotfiles**! Thank you for the overwhelming interest in my setup. This repository contains all the configuration files (dotfiles) for my "Arktik Light" rice, offering a clean, light, and customizable Arctic-inspired aesthetic built primarily around the **Hyprland** Wayland compositor.
+Welcome to the **Monochrome Dark Dotfiles**! Thank you for the overwhelming interest in my setup. This repository contains all the configuration files (dotfiles) for my "Monochrome Dark" rice, offering a clean, light, and customizable Arctic-inspired aesthetic built primarily around the **Hyprland** Wayland compositor.
 
 ### ✨ Features Overview
 
@@ -73,7 +73,7 @@ Ensure you have the following basic tools installed:
 
 ## 🇺🇿 O'zbekcha Talqini (Uzbek Version)
 
-**Arktik Light Dotfiles**'ga xush kelibsiz! Mening sozlamalarimga (rice) bo'lgan qiziqishlaringiz uchun katta rahmat. Ushbu omborxona (repository) mening "Arktik Light" setupim uchun barcha konfiguratsiya fayllarini (`dotfiles`) o'z ichiga oladi. U asosan **Hyprland** Wayland kompozitori atrofida qurilgan bo'lib, toza, yorug' va Arctic-uslubidagi estetikani taklif etadi.
+**Monochrome Dark Dotfiles**'ga xush kelibsiz! Mening sozlamalarimga (rice) bo'lgan qiziqishlaringiz uchun katta rahmat. Ushbu omborxona (repository) mening "Monochrome Dark" setupim uchun barcha konfiguratsiya fayllarini (`dotfiles`) o'z ichiga oladi. U asosan **Hyprland** Wayland kompozitori atrofida qurilgan bo'lib, toza, yorug' va Arctic-uslubidagi estetikani taklif etadi.
 
 ### ✨ Xususiyatlarga Umumiy Nazar
 
@@ -108,7 +108,7 @@ Ushbu usul dotfiles arxivini to'g'ridan-to'g'ri yuklab oladi va o'rnatuvchi skri
 #### Oldindan Talablar (Prerequisites)
 
 Sizda quyidagi asosiy vositalar o'rnatilganligiga ishonch hosil qiling:
-* **`wget`** (yoki `curl` `sudo pacman -S zip unzip wget` dan foydalanib kerakli asboblarni yuklab oling) faylni yuklab olish uchun.
+* **`wget`** (yoki `curl`) faylni yuklab olish uchun.
 * **`unzip`** arxivni ochish uchun.
 
 #### Bosqichma-Bosqich Qo'llanma
