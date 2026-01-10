@@ -1,4 +1,4 @@
-# ❄️ Monochrome Dark Dotfiles v0.01
+# 🦇 Monochrome Dark Dotfiles v0.01
 
 **Author:** Abduraxmonov Nuriddin (**SourceCodeSorcerer**)
 
@@ -6,7 +6,7 @@
 
 ## 🇺🇸 English Version
 
-Welcome to the **Magik Winter Dotfiles**! Thank you for the overwhelming interest in my setup. This repository contains all the configuration files (dotfiles) for my "Magik Winter" rice, offering a clean, light, and customizable Arctic-inspired aesthetic built primarily around the **Hyprland** Wayland compositor.
+Welcome to the **Monochrome Dark Dotfiles**! Thank you for the overwhelming interest in my setup. This repository contains all the configuration files (dotfiles) for my "Monochrome Dark" rice, offering a clean, light, and customizable Arctic-inspired aesthetic built primarily around the **Hyprland** Wayland compositor.
 
 ### ✨ Features Overview
 
@@ -73,7 +73,7 @@ Ensure you have the following basic tools installed:
 
 ## 🇺🇿 O'zbekcha Talqini (Uzbek Version)
 
-**Magik Winter Dotfiles**'ga xush kelibsiz! Mening sozlamalarimga (rice) bo'lgan qiziqishlaringiz uchun katta rahmat. Ushbu omborxona (repository) mening "Magik Winter" setupim uchun barcha konfiguratsiya fayllarini (`dotfiles`) o'z ichiga oladi. U asosan **Hyprland** Wayland kompozitori atrofida qurilgan bo'lib, toza, yorug' va Arctic-uslubidagi estetikani taklif etadi.
+**Monochrome Dark Dotfiles**'ga xush kelibsiz! Mening sozlamalarimga (rice) bo'lgan qiziqishlaringiz uchun katta rahmat. Ushbu omborxona (repository) mening "Monochrome Dark" setupim uchun barcha konfiguratsiya fayllarini (`dotfiles`) o'z ichiga oladi. U asosan **Hyprland** Wayland kompozitori atrofida qurilgan bo'lib, toza, yorug' va Arctic-uslubidagi estetikani taklif etadi.
 
 ### ✨ Xususiyatlarga Umumiy Nazar
 
