@@ -91,18 +91,19 @@ Ensure you have the following basic tools installed:
 | `Alt + RMB` | Resize active window | it works just like *Resize mode* but with Right mouse button |
 
 
-*Final*:
-    1. Use: `reboot` command at the end to reboot your PC 
-    2. After that make sure you will select the Hyprland from Ly login screen
-    3. Enjoy your new monochrome setup
+**Final:**
+* 1. Use: `reboot` command at the end to reboot your PC
+* 2. After that make sure you will select the Hyprland from Ly login screen
+* 3. Enjoy your new monochrome setup
 
     > **Note:** this updated script will automaticly detects your gpu and installs correct drivers for it enjoy!
+
     > **Note:** If you see any errors and installer script stops randomly do nothing but run installer script again.
 
-Subscribe on youtube: https://youtube.com/@Source_Code_Sorcerer
-Follow on instagram: https://instagram.com/source_code_sorcerer 
-Follow on github: https://github.com/SourceCodeSorcererNuri
-Chat on telegram: https://t.me/SourceCodeSorcerer
+**Subscribe on youtube:** https://youtube.com/@Source_Code_Sorcerer
+**Follow on instagram:** https://instagram.com/source_code_sorcerer 
+**Follow on github:** https://github.com/SourceCodeSorcererNuri
+**Chat on telegram:** https://t.me/SourceCodeSorcerer
 ---
 ---
 
@@ -193,15 +194,16 @@ Sizda quyidagi asosiy vositalar o'rnatilganligiga ishonch hosil qiling:
 | `Alt + RMB` | Aktiv Oynani hajmini *Hajmni to'g'irlash rejimi*ga o'tmasdan turib to'g'irlash | Ma'lumot shart emas bitta farqi bu sichqonchaning o'ng tugmasi orqali bajariladi |
 
 
-*Final*:
-    1. installer.sh *TAYYOR!* degan yozuvni ko'rsatgandan so'ng `reboot` buyrug'idan foydalaning va kompyuterni o'chirib yoqing.
-    2. Kompyuter yongandan so'ng LY login menyusida Hyprland tanlanganiga ishonch hosil qiling va uni tanlang.
-    3. Yang MonoChrome temasidan bahramand bo'ling.
+**Final**:
+* 1. installer.sh *TAYYOR!* degan yozuvni ko'rsatgandan so'ng `reboot` buyrug'idan foydalaning va kompyuterni o'chirib yoqing.
+* 2. Kompyuter yongandan so'ng LY login menyusida Hyprland tanlanganiga ishonch hosil qiling va uni tanlang.
+* 3. Yang MonoChrome temasidan bahramand bo'ling.
 
     > **Note:** Bu yangilangan kod avtomatik ravishda sizning Grafik kartangizga mos drayverlarni o'rnatib beradi va ishlashga tayyor holatga olib keladi!
     > **Note:** Agar qanaqadir error ko'rsangiz yoki kod sizga *TAYYOR!* xabarini ko'rsatmay chiqib ketsa qo'rqmang! shunchaki `installer.sh` faylini qayta ishga tushuring.
 
-Youtubeda obuna bo'ling: https://youtube.com/@Source_Code_Sorcerer
-Instagramda follow bosing: https://instagram.com/source_code_sorcerer 
-Githubda follow bosing: https://github.com/SourceCodeSorcererNuri
-Telegramdan yozing: https://t.me/SourceCodeSorcerer
+**Youtubeda obuna bo'ling:** https://youtube.com/@Source_Code_Sorcerer
+**Instagramda follow bosing:** https://instagram.com/source_code_sorcerer 
+**Githubda follow bosing:** https://github.com/SourceCodeSorcererNuri
+**Telegramdan yozing:** https://t.me/SourceCodeSorcerer
+---
