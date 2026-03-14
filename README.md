@@ -101,9 +101,9 @@ Ensure you have the following basic tools installed:
 
 > **Note:** If you see any errors and installer script stops randomly do nothing but run installer script again.
 
-**Subscribe on youtube:** https://youtube.com/@Source_Code_Sorcerer
-**Follow on instagram:** https://instagram.com/source_code_sorcerer 
-**Follow on github:** https://github.com/SourceCodeSorcererNuri
+**Subscribe on youtube:** https://youtube.com/@Source_Code_Sorcerer\
+**Follow on instagram:** https://instagram.com/source_code_sorcerer\
+**Follow on github:** https://github.com/SourceCodeSorcererNuri\
 **Chat on telegram:** https://t.me/SourceCodeSorcerer
 
 ---
@@ -205,9 +205,9 @@ Sizda quyidagi asosiy vositalar o'rnatilganligiga ishonch hosil qiling:
     
 > **Note:** Agar qanaqadir error ko'rsangiz yoki kod sizga *TAYYOR!* xabarini ko'rsatmay chiqib ketsa qo'rqmang! shunchaki `installer.sh` faylini qayta ishga tushuring.
 
-**Youtubeda obuna bo'ling:** https://youtube.com/@Source_Code_Sorcerer
-**Instagramda follow bosing:** https://instagram.com/source_code_sorcerer 
-**Githubda follow bosing:** https://github.com/SourceCodeSorcererNuri
+**Youtubeda obuna bo'ling:** https://youtube.com/@Source_Code_Sorcerer\
+**Instagramda follow bosing:** https://instagram.com/source_code_sorcerer\
+**Githubda follow bosing:** https://github.com/SourceCodeSorcererNuri\
 **Telegramdan yozing:** https://t.me/SourceCodeSorcerer
 
 ---
