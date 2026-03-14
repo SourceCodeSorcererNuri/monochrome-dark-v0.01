@@ -93,9 +93,9 @@ Ensure you have the following basic tools installed:
 
 
 **Final:**
-- 1. Use: `reboot` command at the end to reboot your PC
-- 2. After that make sure you will select the Hyprland from Ly login screen
-- 3. Enjoy your new monochrome setup
+-  1. Use: `reboot` command at the end to reboot your PC
+-  2. After that make sure you will select the Hyprland from Ly login screen
+-  3. Enjoy your new monochrome setup
 
 > **Note:** this updated script will automaticly detects your gpu and installs correct drivers for it enjoy!
 
