@@ -70,6 +70,7 @@ Ensure you have the following basic tools installed:
 #### Shortcuts
 
 | Shortcuts | Task | Description |
+| :--- | :--- | :--- |
 | `Alt + Enter` | Opens a new terminal window | Uses kitty |
 | `Alt + Shift + Q` | Closes an active window | No description needed, it just closes the window you focused |
 | `Alt + Shift + E` | Quits from hyprland | do this if you want to switch between your other DEs (Desktop Environment) or WMs (window managers) |
@@ -171,6 +172,7 @@ Sizda quyidagi asosiy vositalar o'rnatilganligiga ishonch hosil qiling:
 #### Shortcutlar
 
 | Shortcut | Vazifa | Ma'lumot |
+| :--- | :--- | :--- |
 | `Alt + Enter` | Yangi terminal oynasini ochish | kitty terminaldan foydalanadi |
 | `Alt + Shift + Q` | Aktiv oynani yopadi | Ma'lumot shart emas, shunchaki qaysi oyna aktiv bo'lsa o'shani yopadi |
 | `Alt + Shift + E` | Hyprlanddan chiqib ketish | Agar hyprlanddan chiqib boshqa biron-bir WM (Window manager) yoki DE (Desktop Environment)dan foydalanmoqchi bo'lsangiz |
